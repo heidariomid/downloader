@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [Firefox 150.0](https://github.com/heidariomid/downloader/tree/main/downloads/Firefox 150.0)
+
+---
